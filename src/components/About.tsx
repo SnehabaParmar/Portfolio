@@ -28,11 +28,10 @@ export const About: React.FC = () => {
               Professional Background
             </h3>
             <p className="text-slate-300 leading-relaxed text-base">
-              I am an Information Technology graduate currently pursuing my <strong className="text-cyber-cyan">Master of Science in Information Technology (M.Sc. IT)</strong> at K.S. School of Business Management.
-              My expertise spans <strong className="text-cyber-cyan">Machine Learning, Google Gemini LLM API Prompt Engineering, Computer Vision (OpenCV)</strong>, and <strong className="text-cyber-cyan">Full-Stack Development (FastAPI, React, Node.js)</strong>.
+              I am an Information Technology graduate and M.Sc. IT scholar with hands-on experience in <strong className="text-cyber-cyan">Machine Learning</strong>, <strong className="text-cyber-cyan">Computer Vision (OpenCV)</strong>, <strong className="text-cyber-cyan">GenAI/LLM Application Development (Gemini API & Prompt Engineering)</strong>, <strong className="text-cyber-cyan">Python Development</strong>, and <strong className="text-cyber-cyan">Web Development</strong>.
             </p>
             <p className="text-slate-300 leading-relaxed text-base">
-              Through flagship projects such as an LLM Smart Ticket Management system, the <strong className="text-white">AssetFlow Enterprise Platform (Odoo Hackathon 2026)</strong>, an emotion-aware ML application (<strong className="text-white">Mood Room</strong>), an OpenCV vehicle detection traffic optimization system, and <strong className="text-white">CustomArtistry</strong>, I bring robust software engineering and analytical problem solving to every team.
+              I am seeking an internship opportunity to enhance my technical skills and contribute to impactful real-world projects.
             </p>
           </div>
 

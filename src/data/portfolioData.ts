@@ -55,7 +55,7 @@ export const PORTFOLIO_DATA = {
     linkedin: "https://www.linkedin.com/in/snehaba-parmar-9b553b339/",
     github: "https://github.com/SnehabaParmar",
     githubUsername: "SnehabaParmar",
-    bio: "I am an Information Technology graduate and M.Sc. IT scholar with hands-on experience in Machine Learning, Computer Vision (OpenCV), GenAI/LLM Application Development (Gemini API & Prompt Engineering), and Full-Stack Web Systems. Looking for an internship opportunity to enhance my technical skills and contribute to high-impact real-world projects.",
+    bio: "I am an Information Technology graduate and M.Sc. IT scholar with hands-on experience in Machine Learning, Computer Vision (OpenCV), GenAI/LLM Application Development (Gemini API & Prompt Engineering), Python Development, and Web Development. I am seeking an internship opportunity to enhance my technical skills and contribute to impactful real-world projects.",
     avatar: "/photo.jpg",
     realPhoto: "/photo.jpg",
     resumePdf: "/Snehaba_Parmar_Resume.pdf",
@@ -319,7 +319,7 @@ export const PORTFOLIO_DATA = {
   chatbotQA: [
     {
       keywords: ["who", "about", "name", "snehaba", "introduce"],
-      response: "I am Snehaba Parmar! I'm an M.Sc. IT student, AI-ML Developer, Web Developer, Python Developer, and Computer Vision Specialist from Gujarat, India."
+      response: "I am Snehaba Parmar! I am an Information Technology graduate and M.Sc. IT scholar with hands-on experience in Machine Learning, Computer Vision (OpenCV), GenAI/LLM Application Development (Gemini API & Prompt Engineering), Python Development, and Web Development. I am seeking an internship opportunity to enhance my technical skills and contribute to impactful real-world projects."
     },
     {
       keywords: ["certificate", "cert", "microsoft", "internshala", "sql", "python", "sololearn"],
